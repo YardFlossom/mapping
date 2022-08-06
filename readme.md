@@ -1,0 +1,1 @@
+This is a temporary directory for myself to check the actionability of Git.
